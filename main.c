@@ -1,15 +1,1 @@
-//Fromage fromage fromage
-#include<stdio.h>
-
-
-int main() {
-
-
-
-
-
-
-
-
-
-}
+//Ici c'est Paris
